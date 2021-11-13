@@ -1,0 +1,7 @@
+.setting-tray{
+    width: 60%;
+    height: 75%;
+    display: flex;
+    position: absolute;
+    right: 20%;
+    bottom: 20%;}
